@@ -1,0 +1,4 @@
+1. Criar repositório site GitHub
+---> No GitHub Terminal
+2. git init - dentro da pasta do projeto
+3. git remote add origin https://github.com/iayard/CSS_Formulario_exemplo.git
